@@ -110,7 +110,16 @@
     <strong class ="fs-bold"> this website is under developement phase. as I am planning to make it completely on angular.js and add 
         some major details for the landing page</strong>
     <ul ng-repeat="project in model">
-        <li class ="fs-3">the name is {{project.name}}, and things learned:{{project.thingsILearnt}}</li>   
+        <li class ="fs-3 card mb-3 rounded">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body bg-dark text-light rounded-bottom">
+              <h5 class="card-title"></h5>
+              <p class="card-text">
+                  {{project.name}}.
+            </p>
+              <p class="card-text"><small class="text-muted">things learned:{{project.thingsILearnt}}</small></p>
+            </div>
+        </li>   
     </ul>
     
 
