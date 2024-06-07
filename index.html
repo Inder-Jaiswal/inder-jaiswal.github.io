@@ -12,6 +12,8 @@
     <script src="js/homeCtrl.js"></script>
 </head>
 <body ng-app="app", ng-controller="homeCtrl" ng-init = "initialize()" >
+
+    <!-- code for navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
@@ -104,25 +106,31 @@
             </ul>
         </div>
     </div> -->
+    <!-- code for maintenance hero -->
     <img src="./images/under maintenance.jpg" class ="maintenance " style = "width:75%;">
     
     <br>
     <strong class ="fs-bold"> this website is under developement phase. as I am planning to make it completely on angular.js and add 
         some major details for the landing page</strong>
-    <ul ng-repeat="project in model">
-        <li class ="fs-3 card mb-3 rounded">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body bg-dark text-light rounded-bottom">
-              <h5 class="card-title"></h5>
-              <p class="card-text">
-                  {{project.name}}.
-            </p>
-              <p class="card-text"><small class="text-muted">things learned:{{project.thingsILearnt}}</small></p>
-            </div>
-        </li>   
-    </ul>
-    
 
+        <!-- code for listing project details in card format //start-->
+        <ul ng-repeat="project in model" class = "row">
+            <li class ="fs-3 card mb-3 rounded col-6">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body bg-dark text-light rounded-bottom">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text">
+                        {{project.name}}.
+                        </p>
+                        <p class="card-text"><small class="text-muted">things learned:{{project.thingsILearnt}}</small></p>
+                        </div>
+                        </li>   
+                        </ul>
+                        <!-- code for listing project details in card format //end -->
+                        
+                        
+                        
+                        
    
 
     <!-- <footer>
