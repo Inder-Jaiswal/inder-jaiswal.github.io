@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\",
+  "WorkspaceRootPath": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\app-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\app-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\portfolioangular.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:portfolioangular.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\projs\\projs.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\projs\\projs.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\reach-out\\reach-out.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\projs\\projs.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\projs\\projs.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\reach-out\\reach-out.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\reach-out\\reach-out.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\hero\\hero.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\hero\\hero.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\hero\\hero.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\proficiency\\proficiency.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\proficiency\\proficiency.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\proficiency\\proficiency.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\foot\\foot.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\foot\\foot.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\foot\\foot.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\exp\\exp.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\exp\\exp.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\exp\\exp.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\head\\head.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\head\\head.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\head\\head.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\prof-certific\\prof-certific.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\prof-certific\\prof-certific.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\prof-certific\\prof-certific.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\projs\\projs.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\projs\\projs.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\projs\\projs.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\source\\repos\\portfolioangular\\src\\app\\head\\head.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|c:\\users\\inder.jaiswal\\onedrive - vinci construction\\documents\\github\\inder-jaiswal.github.io\\portfolioangular\\src\\app\\head\\head.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9168E3B1-E795-4B19-BEB4-37F892C4898C}|PortfolioAngular.esproj|solutionrelative:src\\app\\head\\head.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     }
   ],
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,206 +86,204 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "src\\app\\app-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-09T08:12:42.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "projs.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\projs\\projs.component.spec.ts",
-              "RelativeDocumentMoniker": "src\\app\\projs\\projs.component.spec.ts",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\projs\\projs.component.spec.ts",
-              "RelativeToolTip": "src\\app\\projs\\projs.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-09T08:12:29.488Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app-data.ts",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app-data.ts",
-              "RelativeDocumentMoniker": "src\\app\\app-data.ts",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app-data.ts",
-              "RelativeToolTip": "src\\app\\app-data.ts",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-09T07:23:09.721Z",
+              "Title": "PortfolioAngular.esproj",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\PortfolioAngular.esproj",
+              "RelativeDocumentMoniker": "PortfolioAngular.esproj",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\PortfolioAngular.esproj",
+              "RelativeToolTip": "PortfolioAngular.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T18:51:39.834Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T18:51:03.426Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app.module.ts",
-              "RelativeToolTip": "src\\app\\app.module.ts",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-09T07:13:02.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "prof-certific.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\prof-certific\\prof-certific.component.html",
-              "RelativeDocumentMoniker": "src\\app\\prof-certific\\prof-certific.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\prof-certific\\prof-certific.component.html",
-              "RelativeToolTip": "src\\app\\prof-certific\\prof-certific.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:27:25.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "exp.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\exp\\exp.component.html",
-              "RelativeDocumentMoniker": "src\\app\\exp\\exp.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\exp\\exp.component.html",
-              "RelativeToolTip": "src\\app\\exp\\exp.component.html",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:25:46.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T08:12:42.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "reach-out.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\reach-out\\reach-out.component.html",
-              "RelativeDocumentMoniker": "src\\app\\reach-out\\reach-out.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\reach-out\\reach-out.component.html",
-              "RelativeToolTip": "src\\app\\reach-out\\reach-out.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:12:16.49Z",
-              "EditorCaption": ""
+              "Title": "projs.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\projs\\projs.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\projs\\projs.component.spec.ts",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\projs\\projs.component.spec.ts",
+              "RelativeToolTip": "src\\app\\projs\\projs.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-09T08:12:29.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "proficiency.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\proficiency\\proficiency.component.html",
-              "RelativeDocumentMoniker": "src\\app\\proficiency\\proficiency.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\proficiency\\proficiency.component.html",
-              "RelativeToolTip": "src\\app\\proficiency\\proficiency.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:08:13.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "head.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\head\\head.component.html",
-              "RelativeDocumentMoniker": "src\\app\\head\\head.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\head\\head.component.html",
-              "RelativeToolTip": "src\\app\\head\\head.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-07T17:19:59.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "hero.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\hero\\hero.component.html",
-              "RelativeDocumentMoniker": "src\\app\\hero\\hero.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\hero\\hero.component.html",
-              "RelativeToolTip": "src\\app\\hero\\hero.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:13:40.291Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-09T07:13:02.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "projs.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\projs\\projs.component.html",
-              "RelativeDocumentMoniker": "src\\app\\projs\\projs.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\projs\\projs.component.html",
-              "RelativeToolTip": "src\\app\\projs\\projs.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABCAAAA",
+              "Title": "prof-certific.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\prof-certific\\prof-certific.component.html",
+              "RelativeDocumentMoniker": "src\\app\\prof-certific\\prof-certific.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\prof-certific\\prof-certific.component.html",
+              "RelativeToolTip": "src\\app\\prof-certific\\prof-certific.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:26:16.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:27:25.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "exp.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\exp\\exp.component.html",
+              "RelativeDocumentMoniker": "src\\app\\exp\\exp.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\exp\\exp.component.html",
+              "RelativeToolTip": "src\\app\\exp\\exp.component.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T08:25:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "reach-out.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\reach-out\\reach-out.component.html",
+              "RelativeDocumentMoniker": "src\\app\\reach-out\\reach-out.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\reach-out\\reach-out.component.html",
+              "RelativeToolTip": "src\\app\\reach-out\\reach-out.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T08:12:16.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "foot.component.html",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\foot\\foot.component.html",
-              "RelativeDocumentMoniker": "src\\app\\foot\\foot.component.html",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\foot\\foot.component.html",
-              "RelativeToolTip": "src\\app\\foot\\foot.component.html",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACsAAAANAAAA",
+              "Title": "proficiency.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\proficiency\\proficiency.component.html",
+              "RelativeDocumentMoniker": "src\\app\\proficiency\\proficiency.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\proficiency\\proficiency.component.html",
+              "RelativeToolTip": "src\\app\\proficiency\\proficiency.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T08:11:04.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:08:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "head.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\head\\head.component.html",
+              "RelativeDocumentMoniker": "src\\app\\head\\head.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\head\\head.component.html",
+              "RelativeToolTip": "src\\app\\head\\head.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-07T17:19:59.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hero.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\hero\\hero.component.html",
+              "RelativeDocumentMoniker": "src\\app\\hero\\hero.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\hero\\hero.component.html",
+              "RelativeToolTip": "src\\app\\hero\\hero.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T08:13:40.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\app.component.ts",
-              "RelativeToolTip": "src\\app\\app.component.ts",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-08T07:37:00.381Z",
-              "EditorCaption": ""
+              "Title": "projs.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\projs\\projs.component.html",
+              "RelativeDocumentMoniker": "src\\app\\projs\\projs.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\projs\\projs.component.html",
+              "RelativeToolTip": "src\\app\\projs\\projs.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T08:26:16.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "foot.component.html",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\foot\\foot.component.html",
+              "RelativeDocumentMoniker": "src\\app\\foot\\foot.component.html",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\foot\\foot.component.html",
+              "RelativeToolTip": "src\\app\\foot\\foot.component.html",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-08T08:11:04.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "head.component.css",
-              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\head\\head.component.css",
-              "RelativeDocumentMoniker": "src\\app\\head\\head.component.css",
-              "ToolTip": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\src\\app\\head\\head.component.css",
-              "RelativeToolTip": "src\\app\\head\\head.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-07T17:32:25.474Z",
-              "EditorCaption": ""
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-08T07:37:00.381Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "head.component.css",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\head\\head.component.css",
+              "RelativeDocumentMoniker": "src\\app\\head\\head.component.css",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\src\\app\\head\\head.component.css",
+              "RelativeToolTip": "src\\app\\head\\head.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-07T17:32:25.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "signals.mjs",
-              "DocumentMoniker": "c:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
+              "DocumentMoniker": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
               "RelativeDocumentMoniker": "node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
-              "ToolTip": "c:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
+              "ToolTip": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular\\node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
               "RelativeToolTip": "node_modules\\@angular\\core\\fesm2022\\primitives\\signals.mjs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-08T08:12:05.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:12:05.901Z"
             }
           ]
         },

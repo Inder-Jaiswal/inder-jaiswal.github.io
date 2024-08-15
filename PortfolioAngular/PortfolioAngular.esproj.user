@@ -10,4 +10,14 @@
   "webRoot": "C:\\Users\\inder.jaiswal\\source\\repos\\PortfolioAngular"
 }</LaunchJsonTarget>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebuggerFlavor>LaunchJsonDebugger</DebuggerFlavor>
+    <LaunchJsonTarget>{
+  "name": "localhost (Chrome)",
+  "type": "chrome",
+  "request": "launch",
+  "url": "http://localhost:4200",
+  "webRoot": "C:\\Users\\inder.jaiswal\\OneDrive - VINCI Construction\\Documents\\GitHub\\inder-jaiswal.github.io\\PortfolioAngular"
+}</LaunchJsonTarget>
+  </PropertyGroup>
 </Project>

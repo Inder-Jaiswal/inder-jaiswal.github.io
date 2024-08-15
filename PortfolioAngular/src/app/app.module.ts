@@ -39,7 +39,6 @@ import { HttpClientModule } from '@angular/common/http';
   imports: [
     BrowserModule,
     HttpClientModule,
-    InMemoryWebApiModule.forRoot(AppData, {delay:1000}),
     AppRoutingModule,RouterLink,
     NgbModule
   ],

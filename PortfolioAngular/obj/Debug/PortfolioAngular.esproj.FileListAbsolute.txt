@@ -1,1 +1,2 @@
 C:\Users\inder.jaiswal\source\repos\PortfolioAngular\obj\Debug\PortfolioAngular.esproj.CoreCompileInputs.cache
+C:\Users\inder.jaiswal\OneDrive - VINCI Construction\Documents\GitHub\inder-jaiswal.github.io\PortfolioAngular\obj\Debug\PortfolioAngular.esproj.CoreCompileInputs.cache
