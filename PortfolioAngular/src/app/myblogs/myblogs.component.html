@@ -1,0 +1,13 @@
+<!-- <div class="blog" (onClick) = "menuState ='open'">
+    some random data over here
+</div>
+<div class="menu" [@openClose] ='menuState'>
+   some random data overhere to populate
+</div>
+
+
+ -->
+ <app-blog-post (menuClick)="menuOpen = true"></app-blog-post>
+ @if (menuOpen) {
+   <app-blog-list @openClose (close)="menuOpen = false"></app-blog-list>
+ }

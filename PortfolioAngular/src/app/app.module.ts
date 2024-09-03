@@ -15,10 +15,14 @@ import { HeadComponent } from './head/head.component';
 import { FootComponent } from './foot/foot.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { NotfoundComponent } from './notfound/notfound.component';
-import { InMemoryWebApiModule } from 'angular-in-memory-web-api';
+// import { InMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { AppRoutingModule } from './app-routing.module';
 import { RouterLink } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
+import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { MyblogsComponent } from './myblogs/myblogs.component';
+import { BlogListComponent } from './myblogs/blog-list/blog-list.component';
+import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
 
 @NgModule({
   declarations: [
@@ -34,15 +38,20 @@ import { HttpClientModule } from '@angular/common/http';
     ReachOutComponent,
     HeadComponent,
     FootComponent,
-    NotfoundComponent
+    NotfoundComponent,
+    MyblogsComponent,
+    BlogListComponent,
+    BlogPostComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
-    AppRoutingModule,RouterLink,
+    AppRoutingModule, 
+    RouterLink,
     NgbModule
   ],
   providers: [
+    provideAnimationsAsync()
   ],
   bootstrap: [AppComponent]
 })
