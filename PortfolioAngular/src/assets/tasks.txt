@@ -16,3 +16,8 @@ add random max height  animations
 add wobble to the incorrect input lines 
 
 add more things to the prof section of your page
+
+add current tasks
+current company
+current tech you are learning
+add all certificates
