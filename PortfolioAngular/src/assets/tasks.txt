@@ -1,0 +1,16 @@
+add animations of all types
+
+
+query
+stagger
+
+enter 
+leave
+
+use keyframes and then add some more animations
+
+add lazy loading
+
+add random max height  animations
+
+add wobble to the incorrect input lines 
