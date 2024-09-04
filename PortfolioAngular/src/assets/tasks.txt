@@ -21,3 +21,12 @@ add current tasks
 current company
 current tech you are learning
 add all certificates
+
+
+added wobble to python and need to learn further 
+look for mistakes you are making  like typos and syntaxes
+use .done method for ending wobble and setting value back to that
+
+look for how to make animations reusable
+
+
