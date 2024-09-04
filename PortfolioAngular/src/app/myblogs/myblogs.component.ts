@@ -12,7 +12,6 @@ const timing = '1s, ease-in';
 @Component({
   selector: 'app-myblogs',
   templateUrl: './myblogs.component.html',
-
   styleUrl: './myblogs.component.css',
   // animations:[ 
     // trigger('openClose',

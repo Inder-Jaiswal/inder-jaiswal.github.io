@@ -1,29 +1,23 @@
-<div class="row bg-dark justify-content-around p-5" id="certiind">
-  <div class="text-light"><h3>Current certificates and more to come</h3></div>
-  <div class="card col-3 d-inline-block" style="width: 18rem;">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Version Control</h5>
-      <p class="card-text">version control with git and how to work with others on team</p>
-      <a href="https://www.coursera.org/account/accomplishments/records/CRKYWKYVJNZ6" class="btn btn-primary">check</a>
-    </div>
-  </div>
-  <div class="card col-3 d-inline-block" style="width: 18rem;">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY.jpeg" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Programming with JavaScript</h5>
-      <p class="card-text">js basics and how to be familiar with js syntax and this</p>
-      <a href="https://www.coursera.org/account/accomplishments/verify/6CEXZHUFSAUY" class="btn btn-primary">check</a>
-    </div>
-  </div>
-  <div class="card col-3 d-inline-block" style="width: 18rem;">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL.jpeg" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Secure Mean Stack dev</h5>
-      <p class="card-text">learn't how to create a website with angular and how things work in the backend'</p>
-      <a href="https://www.coursera.org/account/accomplishments/verify/TA6JBLLQ4VJL" class="btn btn-primary">check</a>
-    </div>
-  </div>
+<!-- <div class="row bg-dark justify-content-around p-5" id="certiind"> -->
+  <!-- <div class="text-light"><h3>Current certificates and more to come</h3></div> -->
+  <div [@slideToggle]="{
+    value: selectedImage(),
+    params: {
+      leaveEnd: animationDirection() === 'right' ? '100%' : '-100%',
+      enterStart: animationDirection() === 'right' ? '-100%' : '100%' 
+    }
+  }"
+  class="image">
+  @switch(selectedImage()){
+    @case(1){<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL.jpeg" class="img-thumbnail"/> }
+    @case(2){<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY.jpeg" class="img-thumbnail"/> }
+    @case(3){<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="img-thumbnail"/> }
+  }
+
+
+  
+
+</div>
   <!--<div class="card" style="width: 18rem;">
       <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -43,4 +37,98 @@
 
   -->
 
-</div>
+
+
+
+<nav>
+  <button
+  (click)="prev()"
+  [disabled]="this.selectedImage() === 1">
+  prev
+  </button>
+  <button
+  (click)="next()"
+  [disabled]="this.selectedImage() === 3">
+  next
+  </button>
+</nav> 
+
+
+<!-- 
+
+<div class="row bg-dark justify-content-around p-5" id="certiind">
+  <div class="text-light"><h3>Current certificates and more to come</h3></div>
+  <div [@slideToggle]="{
+    value:selectedImage(),
+    params:{
+      leaveEnd:animationDirection()==='right'?'100%':'-100%';
+  endStart: animationDirection() ==='left'?'-100%':'100%'    }"
+  switch(selectedImage()){
+    @case(1){
+      <div class="card col-3 d-inline-block" style="width: 18rem;">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL/CERTIFICATE_LANDING_PAGE~TA6JBLLQ4VJL.jpeg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Secure Mean Stack dev</h5>
+          <p class="card-text">learn't how to create a website with angular and how things work in the backend'</p>
+          <a href="https://www.coursera.org/account/accomplishments/verify/TA6JBLLQ4VJL" class="btn btn-primary">check</a>
+        </div>
+      </div>
+    }
+    @case(2){
+
+      <div class="card col-3 d-inline-block" style="width: 18rem;">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY/CERTIFICATE_LANDING_PAGE~6CEXZHUFSAUY.jpeg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Programming with JavaScript</h5>
+          <p class="card-text">js basics and how to be familiar with js syntax and this</p>
+          <a href="https://www.coursera.org/account/accomplishments/verify/6CEXZHUFSAUY" class="btn btn-primary">check</a>
+        </div>
+      </div>
+    }
+    @case(3){
+      
+  <div class="card col-3 d-inline-block" style="width: 18rem;">
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Version Control</h5>
+      <p class="card-text">version control with git and how to work with others on team</p>
+      <a href="https://www.coursera.org/account/accomplishments/records/CRKYWKYVJNZ6" class="btn btn-primary">check</a>
+    </div>
+  </div>
+    }
+  }
+  <div class="card" style="width: 18rem;">
+      <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Version Control</h5>
+        <p class="card-text">version control with git and how to work with others on team</p>
+        <a href="https://www.coursera.org/account/accomplishments/records/CRKYWKYVJNZ6" class="btn btn-primary">check</a>
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6/CERTIFICATE_LANDING_PAGE~CRKYWKYVJNZ6.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Version Control</h5>
+        <p class="card-text">version control with git and how to work with others on team</p>
+        <a href="https://www.coursera.org/account/accomplishments/records/CRKYWKYVJNZ6" class="btn btn-primary">check</a>
+      </div>
+    </div>
+
+  -->
+
+
+<!-- </div> -->
+<!-- 
+
+<nav>
+  <button
+  (click)="prev()"
+  [disabled]="this.selectedImage()===1">
+  prev
+  </button>
+  <button
+  (click)="next()"
+  [disabled]="this.selectedImage()===3">
+  next
+  </button>
+</nav>  --> -->
