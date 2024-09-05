@@ -9,12 +9,12 @@ import { animate, group, query, style, transition, trigger } from '@angular/anim
     trigger('slideToggle', [
       transition('* => *',[
         group([
-          query(':enter', style({transform:'translateX({{ enterStart }})  scale(0.25)'})),
+          query(':enter', style({transform: 'translateX({{ enterStart }})  scale(0.25)'} )),
           query(':leave', 
-            [animate('750ms ease-in-out',style({transform:'translateX({{ leaveEnd }}) scale(0.25)'}))]
+            [animate('750ms ease-in-out',style({transform: 'translateX({{ leaveEnd }}) scale(0.25)'}))]
           ),
           query(':enter',[
-            animate('750ms ease-in-out', style ({transform:'translateX(0)  scale(1)'}))
+            animate('750ms ease-in-out', style ({transform: 'translateX(0) scale(1)'}))
           ])  
         ])
       ],{
