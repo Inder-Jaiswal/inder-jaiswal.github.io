@@ -17,7 +17,7 @@ import { Component, OnInit, signal } from '@angular/core';
 
 export class ProjsComponent  {
 
-protected visible =signal(false);
+ visible = signal(false);
 
 
 }

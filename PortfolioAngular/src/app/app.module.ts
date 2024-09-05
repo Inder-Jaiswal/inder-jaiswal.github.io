@@ -52,6 +52,7 @@ import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
   ],
   providers: [
     provideAnimationsAsync()
+   
   ],
   bootstrap: [AppComponent]
 })
