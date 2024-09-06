@@ -31,6 +31,7 @@ look for how to make animations reusable
 
 
 
+
 5SEPT
 
 UNABLE TO RUN THE ANIMATION ON THE DESIRED COMPONENT 
@@ -41,6 +42,10 @@ ALSO BRING CHANGES TO THE SITE AND MAKE MORE GOOD
 WE WILL START REACT LATER
 BUT SOON
 
+6 sept 
 
+spent most time on creating a gui and how to set the data properly 
+with images
+now going to add more data to it
 `
 
