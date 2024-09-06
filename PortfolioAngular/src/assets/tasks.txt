@@ -47,5 +47,7 @@ BUT SOON
 spent most time on creating a gui and how to set the data properly 
 with images
 now going to add more data to it
+now it's time to revise bootstrap and move to the mobile based versions
+
 `
 
