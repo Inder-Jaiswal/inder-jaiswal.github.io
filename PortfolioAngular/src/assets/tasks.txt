@@ -30,3 +30,17 @@ use .done method for ending wobble and setting value back to that
 look for how to make animations reusable
 
 
+
+5SEPT
+
+UNABLE TO RUN THE ANIMATION ON THE DESIRED COMPONENT 
+LOOK FOR REASONS AND DEBUG IT 
+ALSO BRING CHANGES TO THE SITE AND MAKE MORE GOOD
+
+
+WE WILL START REACT LATER
+BUT SOON
+
+
+`
+
