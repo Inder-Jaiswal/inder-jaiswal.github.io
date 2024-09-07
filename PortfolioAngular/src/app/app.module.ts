@@ -23,6 +23,7 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import { MyblogsComponent } from './myblogs/myblogs.component';
 import { BlogListComponent } from './myblogs/blog-list/blog-list.component';
 import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -48,8 +49,9 @@ import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
     HttpClientModule,
     AppRoutingModule, 
     RouterLink,
-    NgbModule
-  ],
+    NgbModule,
+    BrowserAnimationsModule
+],
   providers: [
     provideAnimationsAsync()
    
