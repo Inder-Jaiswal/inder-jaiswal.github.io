@@ -1,1 +1,38 @@
 https://brown-worm-565516.hostingersite.com
+
+
+ things to do and their descriptions
+
+
+ creating an SVG line
+ ====================== 
+ create the svg line
+ 
+
+ get the svg line div
+ set the perserveAspectRatio = xMidYMax meet
+    add divs and data set data rate and data-direction 
+    create line container
+    write script
+        let path = doc.queryselector(path)
+            pathlenght= path.getTotallength
+
+            path.sty;e.stroke dasharray = pathlength + ''+pathlength;
+            path.style.strokedashoffset = pathlength
+
+
+            window.addEventListner (scroll,()) 
+
+            var scrollpercentage = doc.docElem.scrollTop + doc.body.scrolTop
+            var drawlength = pathlength* scrollpercentage
+
+            path.style.strokedashoffset = pathlength-drawlength
+ +
+give the  
+
+approache==> fixed position
+    position fixed
+    scg d-inline-blocl
+    h=100
+
+

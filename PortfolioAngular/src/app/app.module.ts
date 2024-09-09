@@ -24,6 +24,7 @@ import { MyblogsComponent } from './myblogs/myblogs.component';
 import { BlogListComponent } from './myblogs/blog-list/blog-list.component';
 import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LineAnimationComponent } from './line-animation/line-animation.component';
 
 @NgModule({
   declarations: [
@@ -42,7 +43,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     NotfoundComponent,
     MyblogsComponent,
     BlogListComponent,
-    BlogPostComponent
+    BlogPostComponent,
+    LineAnimationComponent
   ],
   imports: [
     BrowserModule,

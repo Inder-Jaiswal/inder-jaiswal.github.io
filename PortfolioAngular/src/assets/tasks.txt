@@ -51,3 +51,5 @@ now it's time to revise bootstrap and move to the mobile based versions
 
 `
 
+7 sept 
+need to look at animations and other things

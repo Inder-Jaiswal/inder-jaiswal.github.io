@@ -6,8 +6,29 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  
+ 
 </head>
 <body>
-  <app-root></app-root>
+  <div class="line-container">
+  <app-root data-rate=".4" data-diection="vertical"></app-root>
+</div>
+<script>
+  let path = document.querySelector('path');
+  let pathLength= 2058;
+  path.style.strokeDasharray= pathLength + ' ' +pathLength;
+  path.style.strokeDashOffSet= pathLength;
+
+  window.addEventListener('scroll',()=>{
+      //what % down is it?
+      var scrollPercentatge = (document.documentElement.scrollTop +document.body.scrollTop)/ (document.documentElement.scrollHeight - document.documentElement.clientHeight);
+
+      //Length to offset the dashes
+      var drawLength = pathLength* scrollPercentage;
+
+      // draw in reverse
+      path.style.strokeDashOffSet = pathLength - drawLength;
+  })
+  </script>
 </body>
 </html>
