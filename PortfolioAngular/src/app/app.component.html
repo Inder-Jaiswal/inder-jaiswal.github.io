@@ -1,9 +1,22 @@
-
-
-
+<div class="live-container">
+<script>
+    let path = document.querySelector('path');
+    let pathLength= 2058;
+    path.style.strokeDasharray= pathLength + ' ' +pathLength;
+    path.style.strokeDashOffSet= pathLength;
+  
+    window.addEventListener('scroll',()=>{
+        //what % down is it?
+        var scrollPercentatge = (document.documentElement.scrollTop +document.body.scrollTop)/ (document.documentElement.scrollHeight - document.documentElement.clientHeight);
+  
+        //Length to offset the dashes
+        var drawLength = pathLength* scrollPercentage;
+  
+        // draw in reverse
+        path.style.strokeDashOffSet = pathLength - drawLength;
+    })
+    </script>
 <app-head></app-head>
-
-    
 <app-hero></app-hero>
 <app-proficiency></app-proficiency>
 <app-projs></app-projs>
@@ -13,6 +26,7 @@
 <app-myblogs>
 </app-myblogs>
 <app-foot></app-foot>
+</div>
 <!-- <script>
     let path = documen.querySelector('path')
     let pathLength= path.getTotalLength()
