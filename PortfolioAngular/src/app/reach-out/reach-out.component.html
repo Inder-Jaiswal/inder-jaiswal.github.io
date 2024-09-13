@@ -18,10 +18,9 @@
       </a>
     </div>
   </div>
-  <div class="col-lg-4 col-sm-12 col-md-6" (click) =" showSkills= true">
+  <div class="col-lg-4 col-sm-12 col-md-6" (click) =" showSkills= !showSkills">
     where can I help and with what
-  </div>
-  <div *ngIf = showSkills>
+  <div *ngIf = showSkills >
     Automation
   </div>
   <div *ngIf = showSkills>
@@ -33,5 +32,5 @@
   <div *ngIf = showSkills>
     API integration
   </div>
-  
+</div>
 </div>
