@@ -25,6 +25,7 @@ import { BlogListComponent } from './myblogs/blog-list/blog-list.component';
 import { BlogPostComponent } from './myblogs/blog-post/blog-post.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LineAnimationComponent } from './line-animation/line-animation.component';
+import { MainHeroComponent } from './main-hero/main-hero.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +45,8 @@ import { LineAnimationComponent } from './line-animation/line-animation.componen
     MyblogsComponent,
     BlogListComponent,
     BlogPostComponent,
-    LineAnimationComponent
+    LineAnimationComponent,
+    MainHeroComponent
   ],
   imports: [
     BrowserModule,
